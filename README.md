@@ -1,1 +1,1 @@
-# 1_THESPARKFOUNDATIONINTERNSHIP_JULYBATCH
+# Data Science and Business Analytics at The Sparks Foundation 
